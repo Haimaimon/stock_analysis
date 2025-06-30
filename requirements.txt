@@ -5,6 +5,8 @@ numpy
 plotly
 ta
 transformers
+torch
 scikit-learn
 requests
 pyarrow
+beautifulsoup4
