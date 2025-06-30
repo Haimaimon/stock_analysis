@@ -5,6 +5,9 @@ from stock_utils import (
 )
 from stock_analysis_modules import run_full_analysis
 
+# ב־:
+from ML.model_predictor import predict_success
+
 def score_stock(stock):
     score = 0
     if 30 <= stock.get("RSI", 100) <= 50: score += 10
@@ -41,6 +44,7 @@ def fetch_stock_data(symbol, analyzer, min_price, max_price):
         ma200 = hist["Close"].rolling(window=200).mean().iloc[-1]
 
         rsi = compute_rsi(hist["Close"])
+        macd_value = compute_macd(hist["Close"])
         macd_pos = compute_macd(hist["Close"]) > 0
         volume_ratio, volume_status = analyze_volume(hist)
 
@@ -48,9 +52,9 @@ def fetch_stock_data(symbol, analyzer, min_price, max_price):
         sentiment_data, _ = analyzer.run_full_analysis(symbol)
 
         # ניתוח עסקי
-        checklist = run_full_analysis(info, sentiment_data["Sentiment Score"])
+        checklist = run_full_analysis(info, sentiment_data["Sentiment Score"], symbol, analyzer)
 
-        # הרכבת תוצאה
+        # ✅ הרכבת תוצאה (כולל פיצ'רים חדשים + שמות תואמים למודל)
         stock = {
             "Symbol": symbol,
             "Name": info.get("shortName", ""),
@@ -65,6 +69,7 @@ def fetch_stock_data(symbol, analyzer, min_price, max_price):
             "MA50 > MA200": ma50 > ma200 if ma50 and ma200 else False,
             "RSI": round(rsi, 2),
             "MACD Positive": macd_pos,
+            "MACD Value": macd_value,  # <== חובה בשביל המודל
             "Volume Ratio": volume_ratio,
             "Volume Status": volume_status,
             "Sentiment Score": sentiment_data["Sentiment Score"],
@@ -75,8 +80,10 @@ def fetch_stock_data(symbol, analyzer, min_price, max_price):
 
         stock["Smart Score"] = score_stock(stock)
         stock["Forecast"] = generate_forecast(stock["Smart Score"], stock["Sentiment Score"])
+        stock["AI Success Probability (%)"] = predict_success(stock)
         return stock
 
     except Exception as e:
         print(f"❌ שגיאה בניתוח מניה {symbol}: {e}")
         return None
+

@@ -13,6 +13,7 @@ from stock_utils import (
 from stock_analysis_modules import run_full_analysis
 from finnhub_news import FinnhubNewsAnalyzer
 from stock_analysis_engine import fetch_stock_data
+from ML.feature_explainer import explain_features
 
 
 # ========== הגדרות ראשוניות ==========
@@ -80,9 +81,14 @@ if st.button("🔍 טען ונתח מניות עם ציון חכם"):
                     st.markdown(f"**📰 ניקוד סנטימנט:** {stock['Sentiment Score']}")
                     st.plotly_chart(plot_candlestick(stock["History"], stock["Symbol"]), use_container_width=True)
 
+                     # צ'קליסט עסקי
                     st.markdown("### 🧾 ניתוח עסקי לפי צ'ק ליסט:")
-                    checklist = run_full_analysis(stock["Ticker"].info, stock["Sentiment Score"])
-                    checklist_df = pd.DataFrame(checklist.items(), columns=["Parameter", "Value"])
+                    checklist_df = pd.DataFrame(stock["Business Checklist"].items(), columns=["Parameter", "Value"])
                     st.dataframe(checklist_df, use_container_width=True)
+
+                    # ✅ פיצ'רים עם השפעה חיובית / שלילית
+                    st.markdown("### 📊 ניתוח פיצ'רים עם השפעה:")
+                    explanation_df = pd.DataFrame(explain_features(stock))
+                    st.dataframe(explanation_df, use_container_width=True)
 else:
     st.info("בחר טווח מחירים ולחץ על הכפתור כדי לטעון מניות.")
