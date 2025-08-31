@@ -8,6 +8,10 @@ requests
 beautifulsoup4
 lxml
 joblib
+vaderSentiment
+python-telegram-bot==20.7
+
+
 
 # מתקין את החבילה המקומית שלך (layout של src/)
 -e .
