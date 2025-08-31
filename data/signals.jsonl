@@ -1,0 +1,147 @@
+{"ticker": "WBD", "ts": "2025-08-26T10:40:26.686104-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "F", "ts": "2025-08-26T10:44:31.425619-04:00", "reason": "OPEN LONG qty=100 @ 11.82 | TP=12.06, SL=11.71"}
+{"ticker": "WBD", "ts": "2025-08-26T10:44:32.892011-04:00", "reason": "CLOSE @ 11.80 | PnL=-25.42 USD (-2.11%) | Hit SL"}
+{"ticker": "AES", "ts": "2025-08-26T10:48:04.797592-04:00", "reason": "OPEN LONG qty=100 @ 13.47 | TP=13.73, SL=13.33"}
+{"ticker": "AMCR", "ts": "2025-08-26T10:48:04.797592-04:00", "reason": "OPEN LONG qty=100 @ 13.47 | TP=13.73, SL=13.33"}
+{"ticker": "WBA", "ts": "2025-08-26T10:48:04.845902-04:00", "reason": "OPEN LONG qty=100 @ 13.47 | TP=13.73, SL=13.33"}
+{"ticker": "VTRS", "ts": "2025-08-26T10:48:04.857885-04:00", "reason": "OPEN LONG qty=100 @ 13.47 | TP=13.73, SL=13.33"}
+{"ticker": "AMCR", "ts": "2025-08-26T10:48:07.233690-04:00", "reason": "CLOSE @ 11.80 | PnL=-167.00 USD (-12.40%) | Hit SL"}
+{"ticker": "WBA", "ts": "2025-08-26T10:48:07.273605-04:00", "reason": "CLOSE @ 11.80 | PnL=-167.00 USD (-12.40%) | Hit SL"}
+{"ticker": "AES", "ts": "2025-08-26T10:48:07.276686-04:00", "reason": "CLOSE @ 11.80 | PnL=-167.00 USD (-12.40%) | Hit SL"}
+{"ticker": "VTRS", "ts": "2025-08-26T10:48:07.278974-04:00", "reason": "CLOSE @ 11.80 | PnL=-167.00 USD (-12.40%) | Hit SL"}
+{"ticker": "AES", "ts": "2025-08-26T11:06:24.646394-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "VTRS", "ts": "2025-08-26T11:06:24.668052-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "AMCR", "ts": "2025-08-26T11:06:24.671067-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "WBA", "ts": "2025-08-26T11:06:24.679301-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "WBD", "ts": "2025-08-26T11:06:24.686604-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "F", "ts": "2025-08-26T11:06:24.690180-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "AES", "ts": "2025-08-26T11:06:38.834247-04:00", "reason": "CLOSE @ 13.44 | PnL=138.00 USD (11.45%) | Hit TP"}
+{"ticker": "WBA", "ts": "2025-08-26T11:06:38.917004-04:00", "reason": "CLOSE @ 13.44 | PnL=138.00 USD (11.45%) | Hit TP"}
+{"ticker": "F", "ts": "2025-08-26T11:06:38.965019-04:00", "reason": "CLOSE @ 13.44 | PnL=138.00 USD (11.45%) | Hit TP"}
+{"ticker": "VTRS", "ts": "2025-08-26T11:06:39.008046-04:00", "reason": "CLOSE @ 13.44 | PnL=138.00 USD (11.45%) | Hit TP"}
+{"ticker": "AMCR", "ts": "2025-08-26T11:06:39.008046-04:00", "reason": "CLOSE @ 13.44 | PnL=138.00 USD (11.45%) | Hit TP"}
+{"ticker": "WBD", "ts": "2025-08-26T11:06:39.014263-04:00", "reason": "CLOSE @ 13.44 | PnL=138.00 USD (11.45%) | Hit TP"}
+{"ticker": "AES", "ts": "2025-08-26T11:37:36.615694-04:00", "reason": "OPEN LONG qty=100 @ 13.47 | TP=13.73, SL=13.33"}
+{"ticker": "F", "ts": "2025-08-26T11:37:36.763906-04:00", "reason": "OPEN LONG qty=100 @ 11.82 | TP=12.06, SL=11.71"}
+{"ticker": "WBD", "ts": "2025-08-26T11:37:36.773979-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "WBD", "ts": "2025-08-26T11:37:43.282985-04:00", "reason": "CLOSE @ 11.89 | PnL=-17.00 USD (-1.41%) | Hit SL"}
+{"ticker": "ALB", "ts": "2025-08-26T11:40:35.731679-04:00", "reason": "OPEN LONG qty=100 @ 82.65 | TP=84.31, SL=81.83"}
+{"ticker": "ARE", "ts": "2025-08-26T11:40:35.799810-04:00", "reason": "OPEN LONG qty=100 @ 80.51 | TP=82.12, SL=79.70"}
+{"ticker": "AMZN", "ts": "2025-08-26T11:40:35.819633-04:00", "reason": "OPEN LONG qty=100 @ 227.63 | TP=232.18, SL=225.35"}
+{"ticker": "AES", "ts": "2025-08-26T11:40:35.849009-04:00", "reason": "OPEN LONG qty=100 @ 13.47 | TP=13.73, SL=13.33"}
+{"ticker": "APH", "ts": "2025-08-26T11:40:36.580027-04:00", "reason": "OPEN LONG qty=100 @ 109.94 | TP=112.14, SL=108.84"}
+{"ticker": "AMAT", "ts": "2025-08-26T11:40:36.825740-04:00", "reason": "OPEN LONG qty=100 @ 161.97 | TP=165.21, SL=160.35"}
+{"ticker": "APTV", "ts": "2025-08-26T11:40:37.290816-04:00", "reason": "OPEN LONG qty=100 @ 78.80 | TP=80.38, SL=78.01"}
+{"ticker": "ANET", "ts": "2025-08-26T11:40:37.488441-04:00", "reason": "OPEN LONG qty=100 @ 133.23 | TP=135.89, SL=131.90"}
+{"ticker": "BX", "ts": "2025-08-26T11:40:38.266650-04:00", "reason": "OPEN LONG qty=100 @ 169.61 | TP=173.00, SL=167.91"}
+{"ticker": "BK", "ts": "2025-08-26T11:40:38.442388-04:00", "reason": "OPEN LONG qty=100 @ 103.06 | TP=105.12, SL=102.02"}
+{"ticker": "CZR", "ts": "2025-08-26T11:40:39.128582-04:00", "reason": "OPEN LONG qty=100 @ 26.97 | TP=27.51, SL=26.70"}
+{"ticker": "BXP", "ts": "2025-08-26T11:40:39.475499-04:00", "reason": "OPEN LONG qty=100 @ 69.56 | TP=70.95, SL=68.86"}
+{"ticker": "KMX", "ts": "2025-08-26T11:40:39.707123-04:00", "reason": "OPEN LONG qty=100 @ 59.67 | TP=60.86, SL=59.07"}
+{"ticker": "CPT", "ts": "2025-08-26T11:40:39.958856-04:00", "reason": "OPEN LONG qty=100 @ 109.26 | TP=111.45, SL=108.17"}
+{"ticker": "CCL", "ts": "2025-08-26T11:40:40.201616-04:00", "reason": "OPEN LONG qty=100 @ 31.17 | TP=31.79, SL=30.85"}
+{"ticker": "COF", "ts": "2025-08-26T11:40:40.487613-04:00", "reason": "OPEN LONG qty=100 @ 221.10 | TP=225.52, SL=218.89"}
+{"ticker": "SCHW", "ts": "2025-08-26T11:40:41.225079-04:00", "reason": "OPEN LONG qty=100 @ 96.21 | TP=98.13, SL=95.25"}
+{"ticker": "CRL", "ts": "2025-08-26T11:40:41.457390-04:00", "reason": "OPEN LONG qty=100 @ 164.25 | TP=167.53, SL=162.61"}
+{"ticker": "CSCO", "ts": "2025-08-26T11:40:41.999092-04:00", "reason": "OPEN LONG qty=100 @ 67.70 | TP=69.05, SL=67.02"}
+{"ticker": "GLW", "ts": "2025-08-26T11:40:42.935459-04:00", "reason": "OPEN LONG qty=100 @ 67.12 | TP=68.46, SL=66.45"}
+{"ticker": "DAL", "ts": "2025-08-26T11:40:42.974565-04:00", "reason": "OPEN LONG qty=100 @ 60.51 | TP=61.72, SL=59.90"}
+{"ticker": "DECK", "ts": "2025-08-26T11:40:42.984796-04:00", "reason": "OPEN LONG qty=100 @ 113.57 | TP=115.84, SL=112.43"}
+{"ticker": "DELL", "ts": "2025-08-26T11:40:42.991172-04:00", "reason": "OPEN LONG qty=100 @ 131.60 | TP=134.23, SL=130.28"}
+{"ticker": "DG", "ts": "2025-08-26T11:40:43.001643-04:00", "reason": "OPEN LONG qty=100 @ 112.39 | TP=114.64, SL=111.27"}
+{"ticker": "DAY", "ts": "2025-08-26T11:40:43.007758-04:00", "reason": "OPEN LONG qty=100 @ 69.64 | TP=71.03, SL=68.94"}
+{"ticker": "DLR", "ts": "2025-08-26T11:40:43.015108-04:00", "reason": "OPEN LONG qty=100 @ 167.36 | TP=170.71, SL=165.69"}
+{"ticker": "DASH", "ts": "2025-08-26T11:40:43.028695-04:00", "reason": "OPEN LONG qty=100 @ 246.11 | TP=251.03, SL=243.65"}
+{"ticker": "DHI", "ts": "2025-08-26T11:40:43.044712-04:00", "reason": "OPEN LONG qty=100 @ 168.79 | TP=172.17, SL=167.11"}
+{"ticker": "ENPH", "ts": "2025-08-26T11:40:43.069020-04:00", "reason": "OPEN LONG qty=100 @ 38.60 | TP=39.37, SL=38.21"}
+{"ticker": "EQR", "ts": "2025-08-26T11:40:43.100593-04:00", "reason": "OPEN LONG qty=100 @ 64.78 | TP=66.08, SL=64.13"}
+{"ticker": "ETR", "ts": "2025-08-26T11:40:43.126131-04:00", "reason": "OPEN LONG qty=100 @ 89.44 | TP=91.23, SL=88.55"}
+{"ticker": "FIS", "ts": "2025-08-26T11:40:43.151458-04:00", "reason": "OPEN LONG qty=100 @ 71.29 | TP=72.72, SL=70.58"}
+{"ticker": "FAST", "ts": "2025-08-26T11:40:43.157682-04:00", "reason": "OPEN LONG qty=100 @ 50.28 | TP=51.29, SL=49.78"}
+{"ticker": "FRT", "ts": "2025-08-26T11:40:43.164017-04:00", "reason": "OPEN LONG qty=100 @ 99.35 | TP=101.34, SL=98.36"}
+{"ticker": "FSLR", "ts": "2025-08-26T11:40:43.172194-04:00", "reason": "OPEN LONG qty=100 @ 198.63 | TP=202.61, SL=196.65"}
+{"ticker": "FOXA", "ts": "2025-08-26T11:40:43.186932-04:00", "reason": "OPEN LONG qty=100 @ 59.80 | TP=61.00, SL=59.20"}
+{"ticker": "FOX", "ts": "2025-08-26T11:40:43.193519-04:00", "reason": "OPEN LONG qty=100 @ 54.67 | TP=55.76, SL=54.12"}
+{"ticker": "F", "ts": "2025-08-26T11:40:43.207860-04:00", "reason": "OPEN LONG qty=100 @ 11.82 | TP=12.06, SL=11.71"}
+{"ticker": "GRMN", "ts": "2025-08-26T11:40:43.224591-04:00", "reason": "OPEN LONG qty=100 @ 232.47 | TP=237.12, SL=230.15"}
+{"ticker": "FCX", "ts": "2025-08-26T11:40:43.231694-04:00", "reason": "OPEN LONG qty=100 @ 43.72 | TP=44.59, SL=43.28"}
+{"ticker": "GPC", "ts": "2025-08-26T11:40:43.269747-04:00", "reason": "OPEN LONG qty=100 @ 140.18 | TP=142.98, SL=138.77"}
+{"ticker": "HAS", "ts": "2025-08-26T11:40:43.301347-04:00", "reason": "OPEN LONG qty=100 @ 81.24 | TP=82.86, SL=80.43"}
+{"ticker": "DOC", "ts": "2025-08-26T11:40:43.332709-04:00", "reason": "OPEN LONG qty=100 @ 17.59 | TP=17.94, SL=17.41"}
+{"ticker": "HST", "ts": "2025-08-26T11:40:43.343780-04:00", "reason": "OPEN LONG qty=100 @ 16.89 | TP=17.23, SL=16.72"}
+{"ticker": "IR", "ts": "2025-08-26T11:40:43.375809-04:00", "reason": "OPEN LONG qty=100 @ 79.42 | TP=81.01, SL=78.63"}
+{"ticker": "HBAN", "ts": "2025-08-26T11:40:43.388578-04:00", "reason": "OPEN LONG qty=100 @ 17.27 | TP=17.62, SL=17.10"}
+{"ticker": "IBKR", "ts": "2025-08-26T11:40:43.397078-04:00", "reason": "OPEN LONG qty=100 @ 63.02 | TP=64.28, SL=62.39"}
+{"ticker": "IPG", "ts": "2025-08-26T11:40:43.403764-04:00", "reason": "OPEN LONG qty=100 @ 27.08 | TP=27.62, SL=26.81"}
+{"ticker": "INTC", "ts": "2025-08-26T11:40:43.412029-04:00", "reason": "OPEN LONG qty=100 @ 24.46 | TP=24.95, SL=24.22"}
+{"ticker": "IVZ", "ts": "2025-08-26T11:40:43.445313-04:00", "reason": "OPEN LONG qty=100 @ 21.61 | TP=22.04, SL=21.39"}
+{"ticker": "JBL", "ts": "2025-08-26T11:40:43.461986-04:00", "reason": "OPEN LONG qty=100 @ 209.83 | TP=214.03, SL=207.73"}
+{"ticker": "JCI", "ts": "2025-08-26T11:40:43.471142-04:00", "reason": "OPEN LONG qty=100 @ 106.46 | TP=108.59, SL=105.40"}
+{"ticker": "KEY", "ts": "2025-08-26T11:40:43.479424-04:00", "reason": "OPEN LONG qty=100 @ 19.02 | TP=19.40, SL=18.83"}
+{"ticker": "KEYS", "ts": "2025-08-26T11:40:43.496053-04:00", "reason": "OPEN LONG qty=100 @ 165.16 | TP=168.46, SL=163.51"}
+{"ticker": "KIM", "ts": "2025-08-26T11:40:43.507757-04:00", "reason": "OPEN LONG qty=100 @ 22.22 | TP=22.66, SL=22.00"}
+{"ticker": "LRCX", "ts": "2025-08-26T11:40:43.524511-04:00", "reason": "OPEN LONG qty=100 @ 101.63 | TP=103.66, SL=100.61"}
+{"ticker": "LVS", "ts": "2025-08-26T11:40:43.535902-04:00", "reason": "OPEN LONG qty=100 @ 56.27 | TP=57.40, SL=55.71"}
+{"ticker": "LYV", "ts": "2025-08-26T11:40:43.543442-04:00", "reason": "OPEN LONG qty=100 @ 165.82 | TP=169.14, SL=164.16"}
+{"ticker": "LEN", "ts": "2025-08-26T11:40:43.559171-04:00", "reason": "OPEN LONG qty=100 @ 134.14 | TP=136.82, SL=132.80"}
+{"ticker": "LULU", "ts": "2025-08-26T11:40:43.584766-04:00", "reason": "OPEN LONG qty=100 @ 203.52 | TP=207.59, SL=201.49"}
+{"ticker": "MAS", "ts": "2025-08-26T11:40:43.602798-04:00", "reason": "OPEN LONG qty=100 @ 74.36 | TP=75.84, SL=73.61"}
+{"ticker": "MGM", "ts": "2025-08-26T11:40:43.618389-04:00", "reason": "OPEN LONG qty=100 @ 38.22 | TP=38.98, SL=37.84"}
+{"ticker": "MCHP", "ts": "2025-08-26T11:40:43.637462-04:00", "reason": "OPEN LONG qty=100 @ 68.96 | TP=70.34, SL=68.27"}
+{"ticker": "MAA", "ts": "2025-08-26T11:40:43.643586-04:00", "reason": "OPEN LONG qty=100 @ 142.64 | TP=145.50, SL=141.22"}
+{"ticker": "NI", "ts": "2025-08-26T11:40:43.725403-04:00", "reason": "OPEN LONG qty=100 @ 42.63 | TP=43.49, SL=42.21"}
+{"ticker": "NDSN", "ts": "2025-08-26T11:40:43.741002-04:00", "reason": "OPEN LONG qty=100 @ 227.44 | TP=231.99, SL=225.16"}
+{"ticker": "MS", "ts": "2025-08-26T11:40:43.751385-04:00", "reason": "OPEN LONG qty=100 @ 147.18 | TP=150.12, SL=145.70"}
+{"ticker": "NEM", "ts": "2025-08-26T11:40:43.760233-04:00", "reason": "OPEN LONG qty=100 @ 71.54 | TP=72.97, SL=70.82"}
+{"ticker": "NVDA", "ts": "2025-08-26T11:40:43.768906-04:00", "reason": "OPEN LONG qty=100 @ 180.03 | TP=183.63, SL=178.23"}
+{"ticker": "NXPI", "ts": "2025-08-26T11:40:43.780990-04:00", "reason": "OPEN LONG qty=100 @ 237.35 | TP=242.10, SL=234.98"}
+{"ticker": "NKE", "ts": "2025-08-26T11:40:43.794581-04:00", "reason": "OPEN LONG qty=100 @ 79.14 | TP=80.72, SL=78.35"}
+{"ticker": "ON", "ts": "2025-08-26T11:40:43.825718-04:00", "reason": "OPEN LONG qty=100 @ 51.06 | TP=52.09, SL=50.55"}
+{"ticker": "NUE", "ts": "2025-08-26T11:40:43.834907-04:00", "reason": "OPEN LONG qty=100 @ 149.49 | TP=152.47, SL=147.99"}
+{"ticker": "ORCL", "ts": "2025-08-26T11:40:43.848036-04:00", "reason": "OPEN LONG qty=100 @ 236.38 | TP=241.11, SL=234.02"}
+{"ticker": "OMC", "ts": "2025-08-26T11:40:43.857622-04:00", "reason": "OPEN LONG qty=100 @ 79.03 | TP=80.61, SL=78.24"}
+{"ticker": "PYPL", "ts": "2025-08-26T11:40:43.908153-04:00", "reason": "OPEN LONG qty=100 @ 69.51 | TP=70.90, SL=68.81"}
+{"ticker": "PLTR", "ts": "2025-08-26T11:40:43.924684-04:00", "reason": "OPEN LONG qty=100 @ 156.21 | TP=159.33, SL=154.65"}
+{"ticker": "PNR", "ts": "2025-08-26T11:40:43.938023-04:00", "reason": "OPEN LONG qty=100 @ 108.22 | TP=110.38, SL=107.14"}
+{"ticker": "PCG", "ts": "2025-08-26T11:40:43.957844-04:00", "reason": "OPEN LONG qty=100 @ 14.98 | TP=15.28, SL=14.84"}
+{"ticker": "PRU", "ts": "2025-08-26T11:40:43.998703-04:00", "reason": "OPEN LONG qty=100 @ 108.76 | TP=110.94, SL=107.67"}
+{"ticker": "PLD", "ts": "2025-08-26T11:40:44.012719-04:00", "reason": "OPEN LONG qty=100 @ 112.11 | TP=114.36, SL=110.99"}
+{"ticker": "RJF", "ts": "2025-08-26T11:40:44.063127-04:00", "reason": "OPEN LONG qty=100 @ 166.04 | TP=169.36, SL=164.37"}
+{"ticker": "PHM", "ts": "2025-08-26T11:40:44.088286-04:00", "reason": "OPEN LONG qty=100 @ 131.70 | TP=134.33, SL=130.38"}
+{"ticker": "RF", "ts": "2025-08-26T11:40:44.105163-04:00", "reason": "OPEN LONG qty=100 @ 26.60 | TP=27.13, SL=26.33"}
+{"ticker": "STX", "ts": "2025-08-26T11:40:44.121929-04:00", "reason": "OPEN LONG qty=100 @ 165.96 | TP=169.28, SL=164.30"}
+{"ticker": "CRM", "ts": "2025-08-26T11:40:44.137727-04:00", "reason": "OPEN LONG qty=100 @ 247.70 | TP=252.65, SL=245.22"}
+{"ticker": "SPG", "ts": "2025-08-26T11:40:44.145118-04:00", "reason": "OPEN LONG qty=100 @ 176.59 | TP=180.12, SL=174.82"}
+{"ticker": "ROST", "ts": "2025-08-26T11:40:44.160939-04:00", "reason": "OPEN LONG qty=100 @ 148.59 | TP=151.56, SL=147.10"}
+{"ticker": "SWK", "ts": "2025-08-26T11:40:44.176816-04:00", "reason": "OPEN LONG qty=100 @ 76.03 | TP=77.55, SL=75.27"}
+{"ticker": "LUV", "ts": "2025-08-26T11:40:44.193545-04:00", "reason": "OPEN LONG qty=100 @ 32.58 | TP=33.23, SL=32.25"}
+{"ticker": "SMCI", "ts": "2025-08-26T11:40:44.215852-04:00", "reason": "OPEN LONG qty=100 @ 44.16 | TP=45.04, SL=43.72"}
+{"ticker": "SYF", "ts": "2025-08-26T11:40:44.225245-04:00", "reason": "OPEN LONG qty=100 @ 73.92 | TP=75.40, SL=73.18"}
+{"ticker": "TTWO", "ts": "2025-08-26T11:40:44.230750-04:00", "reason": "OPEN LONG qty=100 @ 232.01 | TP=236.65, SL=229.69"}
+{"ticker": "TPR", "ts": "2025-08-26T11:40:44.237629-04:00", "reason": "OPEN LONG qty=100 @ 100.07 | TP=102.07, SL=99.07"}
+{"ticker": "TXN", "ts": "2025-08-26T11:40:44.251648-04:00", "reason": "OPEN LONG qty=100 @ 206.12 | TP=210.24, SL=204.06"}
+{"ticker": "TEL", "ts": "2025-08-26T11:40:44.257699-04:00", "reason": "OPEN LONG qty=100 @ 205.03 | TP=209.13, SL=202.98"}
+{"ticker": "TXT", "ts": "2025-08-26T11:40:44.264741-04:00", "reason": "OPEN LONG qty=100 @ 80.96 | TP=82.58, SL=80.16"}
+{"ticker": "TSCO", "ts": "2025-08-26T11:40:44.275252-04:00", "reason": "OPEN LONG qty=100 @ 61.76 | TP=62.99, SL=61.14"}
+{"ticker": "TER", "ts": "2025-08-26T11:40:44.282210-04:00", "reason": "OPEN LONG qty=100 @ 117.72 | TP=120.07, SL=116.54"}
+{"ticker": "UDR", "ts": "2025-08-26T11:40:44.301878-04:00", "reason": "OPEN LONG qty=100 @ 39.01 | TP=39.79, SL=38.61"}
+{"ticker": "UAL", "ts": "2025-08-26T11:40:44.314602-04:00", "reason": "OPEN LONG qty=100 @ 102.97 | TP=105.03, SL=101.95"}
+{"ticker": "VICI", "ts": "2025-08-26T11:40:44.365223-04:00", "reason": "OPEN LONG qty=100 @ 33.50 | TP=34.17, SL=33.16"}
+{"ticker": "WDC", "ts": "2025-08-26T11:40:44.375927-04:00", "reason": "OPEN LONG qty=100 @ 79.74 | TP=81.33, SL=78.94"}
+{"ticker": "WBD", "ts": "2025-08-26T11:40:44.382319-04:00", "reason": "OPEN LONG qty=100 @ 12.06 | TP=12.30, SL=11.93"}
+{"ticker": "XYL", "ts": "2025-08-26T11:40:44.424463-04:00", "reason": "OPEN LONG qty=100 @ 142.96 | TP=145.82, SL=141.54"}
+{"ticker": "WDAY", "ts": "2025-08-26T11:40:44.432314-04:00", "reason": "OPEN LONG qty=100 @ 226.26 | TP=230.78, SL=223.99"}
+{"ticker": "WYNN", "ts": "2025-08-26T11:40:44.438637-04:00", "reason": "OPEN LONG qty=100 @ 118.44 | TP=120.81, SL=117.26"}
+{"ticker": "ZBH", "ts": "2025-08-26T11:40:44.453792-04:00", "reason": "OPEN LONG qty=100 @ 107.33 | TP=109.48, SL=106.26"}
+{"ticker": "ALB", "ts": "2025-08-26T11:40:44.934657-04:00", "reason": "CLOSE @ 81.72 | PnL=-93.50 USD (-1.13%) | Hit SL"}
+{"ticker": "CZR", "ts": "2025-08-26T11:40:44.983856-04:00", "reason": "CLOSE @ 26.52 | PnL=-44.50 USD (-1.65%) | Hit SL"}
+{"ticker": "DG", "ts": "2025-08-26T11:40:45.062987-04:00", "reason": "CLOSE @ 110.38 | PnL=-201.00 USD (-1.79%) | Hit SL"}
+{"ticker": "FOX", "ts": "2025-08-26T11:40:45.778415-04:00", "reason": "CLOSE @ 54.07 | PnL=-60.00 USD (-1.10%) | Hit SL"}
+{"ticker": "FIS", "ts": "2025-08-26T11:40:45.823945-04:00", "reason": "CLOSE @ 70.45 | PnL=-84.50 USD (-1.19%) | Hit SL"}
+{"ticker": "FOXA", "ts": "2025-08-26T11:40:45.904376-04:00", "reason": "CLOSE @ 59.10 | PnL=-70.00 USD (-1.17%) | Hit SL"}
+{"ticker": "LULU", "ts": "2025-08-26T11:40:45.951691-04:00", "reason": "CLOSE @ 200.66 | PnL=-286.04 USD (-1.41%) | Hit SL"}
+{"ticker": "MCHP", "ts": "2025-08-26T11:40:46.008846-04:00", "reason": "CLOSE @ 67.78 | PnL=-118.50 USD (-1.72%) | Hit SL"}
+{"ticker": "PLTR", "ts": "2025-08-26T11:40:46.140223-04:00", "reason": "CLOSE @ 160.22 | PnL=401.00 USD (2.57%) | Hit TP"}
+{"ticker": "CRM", "ts": "2025-08-26T11:40:46.143209-04:00", "reason": "CLOSE @ 243.46 | PnL=-424.50 USD (-1.71%) | Hit SL"}
+{"ticker": "WBD", "ts": "2025-08-26T11:40:46.144281-04:00", "reason": "CLOSE @ 11.89 | PnL=-16.50 USD (-1.37%) | Hit SL"}
+{"ticker": "WDAY", "ts": "2025-08-26T11:40:46.148428-04:00", "reason": "CLOSE @ 221.55 | PnL=-470.50 USD (-2.08%) | Hit SL"}
